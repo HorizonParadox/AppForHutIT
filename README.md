@@ -1,2 +1,2 @@
 # AppForHutIT
-# API: https://developers.pandascore.co/docs
+API: https://developers.pandascore.co/docs
